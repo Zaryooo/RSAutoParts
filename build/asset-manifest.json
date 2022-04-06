@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RSAutoParts/static/css/main.d1070020.chunk.css",
+    "main.js": "/RSAutoParts/static/js/main.b67c9714.chunk.js",
+    "main.js.map": "/RSAutoParts/static/js/main.b67c9714.chunk.js.map",
+    "runtime-main.js": "/RSAutoParts/static/js/runtime-main.f0aacc96.js",
+    "runtime-main.js.map": "/RSAutoParts/static/js/runtime-main.f0aacc96.js.map",
+    "static/js/2.fcfbf6dd.chunk.js": "/RSAutoParts/static/js/2.fcfbf6dd.chunk.js",
+    "static/js/2.fcfbf6dd.chunk.js.map": "/RSAutoParts/static/js/2.fcfbf6dd.chunk.js.map",
+    "index.html": "/RSAutoParts/index.html",
+    "static/css/main.d1070020.chunk.css.map": "/RSAutoParts/static/css/main.d1070020.chunk.css.map",
+    "static/js/2.fcfbf6dd.chunk.js.LICENSE.txt": "/RSAutoParts/static/js/2.fcfbf6dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0aacc96.js",
+    "static/js/2.fcfbf6dd.chunk.js",
+    "static/css/main.d1070020.chunk.css",
+    "static/js/main.b67c9714.chunk.js"
+  ]
+}
